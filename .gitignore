@@ -1,0 +1,13 @@
+﻿.*
+*.csproj
+.plastic
+.vs
+.vscode
+Library
+obj
+Temp
+projecthollow.sln
+projecthollow.sln.DotSettings.user
+Logs
+UserSettings
+*.conf

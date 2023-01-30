@@ -1,0 +1,5754 @@
+fileFormatVersion: 2
+guid: f080ff245e5aae040a7d23ffe58e4ea5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 105
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: labTiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2195
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb027f5a050b5e46a9e66e17d486606
+      internalID: -62830378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2195
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3eb60417c6b45448b0746e3f3f55e38
+      internalID: -517247655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2195
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901b49ac176c48141b3cff68fc4cef42
+      internalID: -1496960498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2195
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc63368491308d4aac97569a35655ea
+      internalID: -966553124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2195
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820eef19c1fa7804f8c66d8a3c50f29b
+      internalID: 1776648780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_5
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2195
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b493abd1999909349a9a2cbd607663de
+      internalID: -1276177011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_6
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 2195
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b51e680dea9534a812859f038b8582
+      internalID: -184141010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_7
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 2195
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca40ccb3094d3a4daf83ec5fee4fc4f
+      internalID: 57948068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_8
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2195
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244c931f6e73a6a4dadd62e10caf26bc
+      internalID: -2120873235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_9
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 2195
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c5493fa991d134787240840308b2f9
+      internalID: -1525160035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_10
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2195
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001a92eccf6ba2d4fa9130a3efa44d11
+      internalID: -1915179143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_11
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 2195
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d1787a15691a74fa765cabb64d2268
+      internalID: -1343308081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2090
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96be29f31abb8124cbedc5ba89af1e4f
+      internalID: 606268896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2090
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0e0fd347e368645b84606eb9d4dc28
+      internalID: -1307878501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2090
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6bb4defa9b68842b78d116f9fbdb46
+      internalID: -344397088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_15
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2090
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dd4e7fd301dd04b858e2adb6a613f0
+      internalID: -589923502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_16
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2090
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c9448390b57ca48830314e22d61c90
+      internalID: 1295440257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_17
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2090
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0693514081b7f0a4c980a27a239b4c03
+      internalID: 1813399814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_18
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 2090
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b0efa7167087d47bb974fc7209f089
+      internalID: -396474881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_19
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 2090
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139e6446151e9e64a8a8f123cc683022
+      internalID: -1678308750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_20
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2090
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001cb9adf0b4462458b948bf335569e4
+      internalID: 1014778941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_21
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 2090
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298b3ff801c417944bb0fb9fca680857
+      internalID: -1856685726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_22
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2090
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb76b59dbfa2af943b63a1ea6be3b7fa
+      internalID: 1381230061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_23
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 2090
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd725fc884726f40b091f1dd1b40aba
+      internalID: -1842688415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_24
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 2090
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c81c2a010714a46ad7a074865c8348
+      internalID: -1793493242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_25
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 2090
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dbfdf5795e0ba4383ae50d0d46652b
+      internalID: 512932999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_26
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2090
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb15e75fde0abe7439e4273175ad016f
+      internalID: -1847534469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_27
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 2090
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b11db2f1e1bff4ea9fcda2762929c6
+      internalID: 1582928457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1985
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523bfbfa6cddd8544a8e2a82f606750d
+      internalID: 394631740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_29
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1985
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5bacfacf299fc46a31749990308a27
+      internalID: -1269793359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_30
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1985
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1979d59bb60c8fc4f956314bc70c1373
+      internalID: -1215310383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_31
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1985
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70408c2bf5d5ef942b64bfbb1575aab1
+      internalID: 1888996639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_32
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1985
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1a25effa01933469a6c195066bd3ae
+      internalID: -2123426001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_33
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1985
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48172e2537f113c48a299c43ee0926bc
+      internalID: 94085113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_34
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1985
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2752ebf548ec36f4196f01b26e159ba0
+      internalID: -2051282595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_35
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1985
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a13230137c67e4884fc46989c0ae67
+      internalID: -1448198974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_36
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1985
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74a838a52cfaa54683de10326c8d582
+      internalID: 1563421141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_37
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1985
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a076c69902efa345af1d3b04768b45d
+      internalID: -1823281156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_38
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1985
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6629467d1c15234ea70f96ffcf79a4d
+      internalID: -1057266835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_39
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1985
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673c1634bf51ba745ac0feb4a5801a02
+      internalID: -95212978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_40
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1985
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd54f75d789ecfc42858e5302fa07eee
+      internalID: -1017434202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_41
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1985
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebff79e3f2edea7439860bc7f13f9310
+      internalID: -239055695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_42
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1985
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcdbdb3efc74934bba5abb94795e8c0
+      internalID: -813541591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_43
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 1985
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e040c6fe0b6d1c541b4e646e088c5509
+      internalID: -900764685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1880
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d44645770e1284e89b475db9025c8c
+      internalID: -1926135864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_45
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1880
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daaf419506b3deb41b27449a32ad08c3
+      internalID: 715545591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_46
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1880
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7ab2731f947614f8feecdc653a0aca
+      internalID: -1852573495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_47
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1880
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859a0266f9527d842b8517032e567a98
+      internalID: -1558124649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_48
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1880
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6f01063903fbd48ab9f55e5bf45bf8
+      internalID: 498355327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_49
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1880
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf667b7bc927a84d894d24aa1efde53
+      internalID: 53855463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_50
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1880
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d1f7190fb2b9d43b2bdb30ddc28b91
+      internalID: 2050240900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_51
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1880
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c661071ed4bb69845b328ff6b40d1661
+      internalID: 377752035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_52
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1880
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdaa3831959e17439e80eba20c54cc1
+      internalID: -467006019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_53
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1880
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c047ac8ef01a2540957515a0860224a
+      internalID: 474032288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_54
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1880
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0308eec1949c3f40bc64a0f4291e9fa
+      internalID: 538926059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_55
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1880
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d83df287ce4572408d37f21ba2877e5
+      internalID: -324513348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_56
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1880
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ca4cbb9272819448744f0f70fd0264
+      internalID: 1766584565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_57
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1880
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f89f99998662141bc55a6845383740
+      internalID: 465073237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_58
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1880
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e3a82311784a04dbf89381da94d23f
+      internalID: 1495375181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_59
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 1880
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04331cace6319f4d973f916787cb54b
+      internalID: -1782493106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1775
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b94f209eb6b074087ffe90c9dd7193
+      internalID: -1394204866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_61
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1775
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12501e63ab5208a4a98d80ac3a07eaaa
+      internalID: -584477218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_62
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1775
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d437aaa20332aff4ca71522c67c06f97
+      internalID: 444085859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_63
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1775
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f2cd2e1aabe0b4f84da2cd9b9047ff
+      internalID: 1875701557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_64
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1775
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8882c950ceec3494590de33033281b48
+      internalID: -1591440994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_65
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1775
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1861868e1e10c0e46b6e70bc0454f95a
+      internalID: 1518087554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_66
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1775
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc248a0cdc093ac4d9f44f5effe6274c
+      internalID: -1326268737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_67
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1775
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31a7e1a3a652a04c901155092b26574
+      internalID: 1529844058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_68
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1775
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f438c99cf2cdcf43bd9a10a0060ee25
+      internalID: -342184299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_69
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1775
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbfb087578259a4a9a5c0f77c9f2ee1
+      internalID: 1198342822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_70
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1775
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cd9ed0fe1342148b17902ebe56d7fc
+      internalID: 1513467883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_71
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1775
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c584a4dae52dfdd4ba9e8b1705986354
+      internalID: 1788174269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_72
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1775
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04410f7584f82a94d98ff70b1f1fa05e
+      internalID: -519944704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_73
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1775
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842d96ca8adc0ab428da6c1616ee31a3
+      internalID: 1705210107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_74
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1775
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfa4660c681e724c8416e2747cc0397
+      internalID: 1767806210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_75
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1775
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7ed140e2d936d4fafcd3f0a7aaadb7
+      internalID: -1302008907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_76
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1775
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47f873fae958624c812427903b1f49c
+      internalID: 626449488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_77
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 1775
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0907964eb5b3b48b1bad2f25fcd693
+      internalID: -1253689968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_78
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1775
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa40756bec9f974b925f46660300b08
+      internalID: -700283823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1670
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57972e85321ce34d91752c36a11f767
+      internalID: 1420101768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_80
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1670
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc204a974d9d3f4e9906e9827b7b9c8
+      internalID: 579562221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_81
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1670
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb7df22ca6ab13469a0a209437b562d
+      internalID: 1537443325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_82
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1670
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1622d4f0bb0d32a4795eff686d9ce20f
+      internalID: -1754001693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_83
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1670
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb2ba3bd6934a84f8433f694064952f
+      internalID: 122488191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_84
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1670
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa1fd65bd6eacd40b7b7d3524576351
+      internalID: -364827007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_85
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1670
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f7b500b9fb2e8449bec3a5154fa31d
+      internalID: -1091356725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_86
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1670
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2e609bc8d1612419b66114e719bb6c
+      internalID: 1681359240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_87
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1670
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7607588a33b70c24fa462509c60f48bd
+      internalID: -1932613513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_88
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1670
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bd85c8576ba9343b4a4685525b9161
+      internalID: 1346442412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_89
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1670
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacd84af1cab6cf4989678e6e75e4f6b
+      internalID: -1208628499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_90
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1670
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4777019c58023f49866cd77f078bd12
+      internalID: -1603143447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_91
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1670
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e1a578eaa24fc40941d8bd80fd98f9
+      internalID: -188963369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_92
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1670
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3146864cea6774493ddd53e7e2ffe7
+      internalID: -1879191484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_93
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1670
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0db1dd3b520ca547b872c13f43123e9
+      internalID: 1227149720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_94
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1670
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37d89d682631e343a4d59ab01c6cbf0
+      internalID: -1585774181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_95
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1670
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f68aa24aa2ea2440a686cd4249a8596
+      internalID: -2049863829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_96
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 1670
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4d245d972ed0c49b1badac3a41e68d
+      internalID: -68911354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_97
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1670
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a260cad0f917e44a3cc469efa37274
+      internalID: 164268638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1565
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81c33c616ccabd49a61cca7665d20a0
+      internalID: 2076675030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_99
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1565
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee831963ac7bb844a3dcbcf0675da68
+      internalID: 1616647727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_100
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1565
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ebd8a9672615d47b1d9b27e63c15ee
+      internalID: 1154156071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_101
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1565
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4229fd172b3e0f44884a2c14ce10255b
+      internalID: -1306350462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_102
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1565
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e185ace4e304e4e883ac76713c6131
+      internalID: 819739039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_103
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1565
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152534c09e6f7174ab8e4e39bcbaf7f7
+      internalID: 705643021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_104
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1565
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be837d464eaabb24aa6baa9a491c227c
+      internalID: -1560897035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_105
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1565
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0405a75d577964a93ab8b6e29abf90
+      internalID: 2126072890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_106
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1565
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b2ce6438068d74eb9f01b52ccb66d5
+      internalID: 397360740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_107
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1565
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6861fc218778c9c4190e79f1f694e41f
+      internalID: 1604694540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_108
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1565
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c557918fdbd83540aef8422431260da
+      internalID: 1977664752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_109
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1565
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48149d5c9cb42194cbb25e3fdd22aac6
+      internalID: -246874500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_110
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1565
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134f35fb43ab6434da6e6cb0cc7b4412
+      internalID: 485346548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_111
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1565
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c23512cd50d99446be95be172da6346
+      internalID: -1842786080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_112
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1565
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939c5eaa90a3a9b4e9ac0a1feda7d198
+      internalID: -791065436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_113
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1565
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff697120d311b15419fe3b2847c339cb
+      internalID: -1696731441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_114
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1565
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c069b658c6dd2a44da4814c0fe0f1068
+      internalID: 1276438678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_115
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 1565
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7de73210bf4164aa0fe13295df24b1
+      internalID: -359990590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_116
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1565
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a2b0716c7aaa04593f70d3184347ae
+      internalID: 1552514833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1460
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7351c861a2c94342ad9ed77c7da9028
+      internalID: -1264213331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_118
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1460
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09aad6251ee213840bd6e9b9091791cc
+      internalID: 1147470969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_119
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1460
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c657991611ab142bf836164b5297d9
+      internalID: 1413819773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_120
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1460
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f016a8611d30e64d832d0ccd0d00782
+      internalID: -1976908953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_121
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1460
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91d67405add3834d816902967f71238
+      internalID: 66802885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_122
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1460
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4cdf32c3298024489b8601846f15e7
+      internalID: -1219363277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_123
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1460
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d6fabf6713f334c881e6cd6c2d0b9c
+      internalID: 87505677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_124
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1460
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65fffb01279975459e054e208ed72a8
+      internalID: -175565063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_125
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1460
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531d40c3cbcd61e42bd69a914bb57e9e
+      internalID: -1995714965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_126
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1460
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbdd49db1d620f4698737892b2d78f4
+      internalID: -1624437996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_127
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1460
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3222b380871964fb5018396b79e72d
+      internalID: -435210570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_128
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1460
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2943b65cf9370d249ab394574cf23d34
+      internalID: 1927830716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_129
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1460
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5539f5b2a0f31419284a8b4e43c205
+      internalID: -1732406873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_130
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1460
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359891b1f6f241b47834fb8df1e1d1b6
+      internalID: 1057166828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_131
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1460
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b62006a6085bc54494ed2f9f86f4e7c
+      internalID: -1110452872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_132
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1460
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda831a0260f2cd458ef34f8aa8b125f
+      internalID: 1628582392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_133
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1460
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7524f4afe14814a9e68eadabf9f418
+      internalID: 352061754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_134
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 1460
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a864bc963db54224992e1e39b7be3f10
+      internalID: -351029553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_135
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1460
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea205127332b794c82c4a270e64685c
+      internalID: 1952036740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_136
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1460
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df9b2fba68b765419bc93c526a487ad
+      internalID: 32087018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1355
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b520c1603b3e86438959d2fe1f683ab
+      internalID: -1557227524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_138
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1355
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5928a320bcd324ba4ee168ccdbadeb
+      internalID: 987269662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_139
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1355
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ebae3df8a69b94493e3584de9ca378
+      internalID: -457862180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_140
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1355
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6b52b2d0374b34e971e9f0f34d6958
+      internalID: -2136203941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_141
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1355
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8f5be18eb53f046b1f5d68d3f3fbd2
+      internalID: 1806866372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_142
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1355
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f909c30343db581458e233a5f1f1bbc7
+      internalID: 256899449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_143
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1355
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e986434b131ec647be11d94df643c38
+      internalID: -1311355779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_144
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1355
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396d70dba0dac7c45adb0bd3520f542e
+      internalID: -327312407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_145
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1355
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d227fdf4ebdc8f438dc9bc0936e8f3b
+      internalID: 1292284281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_146
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1355
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b3c24034a1be442850378c6cf9d0e6
+      internalID: 1221188239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_147
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1355
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488e9333195f1c44e9393c6748eb3448
+      internalID: 1196622583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_148
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1355
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154ba0b7702c3594a9a0e0f059cf627e
+      internalID: 1229561405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_149
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1355
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767f17d5657d16c4eb988120788ea78c
+      internalID: 1178946252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_150
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1355
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70fc7a4189a01146a489d73c2e53f9a
+      internalID: 1156868012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_151
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1355
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d778bb06b900546b9a8af66afe5377
+      internalID: -1328927275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_152
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1355
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45feef1b99ab214499b2f1f3748430c1
+      internalID: 1026638823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_153
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1355
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c45c22afe54a549ae763fe32259e12
+      internalID: -126586867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_154
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 1355
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847271bf560940d48a05bb4954747051
+      internalID: 1003442312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_155
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1355
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cda7f8f7b6316149be82c1b474e7880
+      internalID: -204028330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_156
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1355
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edee5f00070f993458742778e9baef3d
+      internalID: -1065268511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_157
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1250
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5c5fce0aaadc346a1c7db6b696a96d
+      internalID: -960602253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_158
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1250
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d1801cbf138564eafaa6708e17f976
+      internalID: -1429339321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_159
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1250
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8f9a6091e01b549917e1c310098348
+      internalID: -493767988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_160
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1250
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c925141bcf5d884093be5ae7b80f91b
+      internalID: -1736647268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_161
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1250
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ebc5e250f529b448dabd9da9e427e1
+      internalID: 1445965384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_162
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1250
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23713fc72fe66d45bb2ceeef6b4a71c
+      internalID: -1806249077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_163
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1250
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b8212eb0e516f499931674cab27c17
+      internalID: -513244415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_164
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1250
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c092a79f7b2c8e4b829db73d6bbad29
+      internalID: 2504062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_165
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1250
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b5dbc6cf295be40a8b1cd6477eb37c
+      internalID: 698468841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_166
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1250
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18e3244073bb6a4bb1b2939fdd0a5a1
+      internalID: 1899366569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_167
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1250
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e55f546648b921439953e19efaa7480
+      internalID: 1485072927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_168
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1250
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9733922033f6560438cc12b7d8506038
+      internalID: -1926360972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_169
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1250
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33c830a640699a4f8ce621d5d8be7fa
+      internalID: -1171101641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_170
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1250
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2ee712ece097a4e964a08af2907c46
+      internalID: 1310799515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_171
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1250
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b2ea97bb3af2f44837e89795d1ece7
+      internalID: 2101914830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_172
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1250
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b6a7864261d7645a608c4b4dcc0d00
+      internalID: 1788917938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_173
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1250
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ead7ee29ba8e234d90f00f02507cc9f
+      internalID: -1556902185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_174
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 1250
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df3a2ffed1478a42bbe9a857b42bb60
+      internalID: 1164900585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_175
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1250
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9879d05ed293ef4449d24cfe51e1afd2
+      internalID: 566325993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_176
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1250
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55507ffc723ccec4cbf3f14d67ab41d2
+      internalID: 1206771116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_177
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1145
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917ce4959616d414b96eded0fee2b401
+      internalID: 1242216084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_178
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1145
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4247a8136d2f214698ba7a970ffc87a
+      internalID: 1702079097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_179
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1145
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e084d221e90484e98a8542ee06e9be
+      internalID: -1786628270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_180
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1145
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b2c4eeb31cf9746b090cf91798fa0d
+      internalID: -773587331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_181
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1145
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fc76cc015d6d34496eca135c8e41fc
+      internalID: 1953862353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_182
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1145
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8020ce9a0b9b218439f0dd994e416d48
+      internalID: -998461685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_183
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1145
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f20c730b36e9c445898731f137a86d7
+      internalID: -755868027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_184
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1145
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a59e29fc1ebe340835c1b3fb647af8
+      internalID: -549594882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_185
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1145
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0730eff987fa67244b5d63ec8d113b3e
+      internalID: -14876620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_186
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1145
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7c5f0af604d20499e45c15ea3531d2
+      internalID: 146106811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_187
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1145
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc354df4c443a6b4789b15d8d8ad47c1
+      internalID: -1967049053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_188
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1145
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57111d772840b944980147bc8474982a
+      internalID: -1755375474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_189
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1145
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dc89d227b9fea47b7105b163f858ff
+      internalID: -278047653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_190
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1145
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c13de418d8bbe459e019f90af499f4
+      internalID: 1983100542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_191
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1145
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b19c76231fd7364c8aefe937368c25a
+      internalID: -2095915419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_192
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1145
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75b92d5ff26669418da27baf847c84e
+      internalID: 1185295554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_193
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1145
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c191cd652c3ab0348bbd64697636f485
+      internalID: 1035984625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_194
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 1145
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d91fc3a283bd7e468d547f767559a67
+      internalID: 1195484239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_195
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1145
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ff00f718badcb4785e31df27dd938f
+      internalID: -2072733097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_196
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1145
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c101e3841d904b4895e15858fb641af
+      internalID: -1737259794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_197
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1040
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fcd58f0bb5b474c8dc304a1b3ef12f
+      internalID: -215714294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_198
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1040
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde8e3c464685ea4280f4700323aa4cf
+      internalID: 623361236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_199
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1040
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376cb3d337076b14e8786bc4b8d662a4
+      internalID: 2129249817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_200
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1040
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbd4ad2f15426b4988f3e9c0c874908
+      internalID: -984606024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_201
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1040
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa64f3b3eb29d74693294d9f88b045e
+      internalID: -1459482239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_202
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1040
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7124bea889bb84e9a5ee315716fdf7
+      internalID: 347455411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_203
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1040
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdad0937cf2e02a48b1713b3274fbdd9
+      internalID: 1448629953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_204
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1040
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3842c3ad7b7c9ed4fb030c6d4854d039
+      internalID: 2139514919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_205
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1040
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88ace68c32ef4a4fb928d806cc46d91
+      internalID: -626908715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_206
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1040
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5678333b717bf3b439c98af203227635
+      internalID: -695715719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_207
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1040
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58eae6f637ca604cb8f0c07a59c870f
+      internalID: 698776617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_208
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1040
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6153d5675663ae54285d8cc2e5813621
+      internalID: -36472633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_209
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1040
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941c823e46701a24fbcd2c334a062693
+      internalID: 1880603166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_210
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1040
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a2b998ff965ab4b8e06d0e1231a859
+      internalID: -1414098828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_211
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1040
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c4acfb65021da41a147d2861e6efd6
+      internalID: 1578242482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_212
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1040
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a75c96329cf32b4a86459a34f615a05
+      internalID: 117319028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_213
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1040
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a7938db00c26d4fac641886f4cb1e6
+      internalID: -1415430785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_214
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 1040
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c3fa672e906ed44bbbab5643a78740
+      internalID: 975548593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_215
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1040
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdde7e8425287d489d84242760c62f8
+      internalID: -1104074081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_216
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1040
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fea4a388829de4bbd3b8003bbc63ef
+      internalID: 1335232594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_217
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 935
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62c8ee100a2a17499dbe3573859d5e0
+      internalID: 949625944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_218
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 935
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3e03b3cc1337f4d940a4c3fdcedb0c
+      internalID: -243274039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_219
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 935
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57e2e77041c36647a3bd35a95884ad8
+      internalID: 1264611645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_220
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 935
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff37e0cd434e664ca6c63cd69940179
+      internalID: -1903165292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_221
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 935
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b72e4b5c731e649a759fbef33d82ba
+      internalID: 924336981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_222
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 935
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e51dd88f5629f489b348300ea59463
+      internalID: 1049408945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_223
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 935
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c68571af2774d488a81721eca5ded0
+      internalID: 1267516536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_224
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 935
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb73a30596f27741a1ea892518fba46
+      internalID: 1984941724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_225
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 935
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b280c9b4f78dc104bb60502849993c44
+      internalID: -2093654725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_226
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 935
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e291b2bedf07334b8cb09c023a9f13f
+      internalID: 1817879302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_227
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 935
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03855a62cf0ec64479a1ae2c6e0c5f5d
+      internalID: -827028375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_228
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 935
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9315bb2c394ef448b3592b1d0f9a09
+      internalID: -292177998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_229
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 935
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcd47a3f0a18a94a8fcf0941913b02d
+      internalID: 273660437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_230
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 935
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fac40337a9564347bf1d0f9f034ea14
+      internalID: -1631997143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_231
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 935
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1132039cb55c742b3346b10b4b5405
+      internalID: 1559286888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_232
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 935
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4420f9999e9127f46b94558698b7c9e0
+      internalID: -1406916982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_233
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 935
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d64c4519c61d534797598bf074ddd00
+      internalID: 1245327642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_234
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 830
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd2b32f662e8ce45b5dd3696df2c35e
+      internalID: 354884692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_235
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 830
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57016736b316fb458360659d0f61e34
+      internalID: 69936016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_236
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 830
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813051850b0872941845d7dc21a4df00
+      internalID: 1428168391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_237
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 830
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec4592ed58b7b84598436fdc28a9bab
+      internalID: -544339572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_238
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 830
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d965805f5b63f845b6d0dc55ebef3e5
+      internalID: 1158616209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_239
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 830
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0715ca540e9d14abddd341f860e53d
+      internalID: 1210327179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_240
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 830
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53202e007c68af648b09d5cb33bc3843
+      internalID: 446168381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_241
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 830
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df6831429dd2fe4b8dbdec4ab05958a
+      internalID: 838296646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_242
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 725
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85b8e54751843c43bd1fabaed24b295
+      internalID: 604418340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_243
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 725
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc63d8b7a62ac4f4c978aaf935a35790
+      internalID: -1684216438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_244
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 725
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc15396f170aae45a5e0a8a7db9fba1
+      internalID: 1739572410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_245
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 725
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a412d6815519846478704fbf1a4c97e3
+      internalID: -641482467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_246
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 725
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac7f24536106b141b84befbf3565215
+      internalID: 840833779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_247
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 725
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e89a16fa9bd8148ae4d4b9444a40a9
+      internalID: -1704517967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_248
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 725
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d871d93dd16d241b152923c2ad88e5
+      internalID: 211820876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_249
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 725
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bee9577750b4ef41b8c4f271dc9d826
+      internalID: -872628946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_250
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 620
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361a2a44ba0b56b468587e6b86d8b5d0
+      internalID: 1033090586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_251
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 620
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d656ef3ba98451e45b99e6b6f8ba487f
+      internalID: -702885419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_252
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 620
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03587b6565a5b649b49587e98afe7a7
+      internalID: 1692745407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_253
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 515
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c473369a7c9ed08429a7dd99529ff9a8
+      internalID: 849515084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_254
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 515
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda6297f510615e46b629aeba6b6b406
+      internalID: 542763570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTiles_255
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 515
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6a6cffacd2a8e4a8f742b525b9ee7c
+      internalID: -108075006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      labTiles_65: 1518087554
+      labTiles_124: -175565063
+      labTiles_77: -1253689968
+      labTiles_135: 1952036740
+      labTiles_23: -1842688415
+      labTiles_213: -1415430785
+      labTiles_53: 474032288
+      labTiles_9: -1525160035
+      labTiles_26: -1847534469
+      labTiles_103: 705643021
+      labTiles_68: -342184299
+      labTiles_59: -1782493106
+      labTiles_203: 1448629953
+      labTiles_74: 1767806210
+      labTiles_95: -2049863829
+      labTiles_147: 1196622583
+      labTiles_172: 1788917938
+      labTiles_113: -1696731441
+      labTiles_96: -68911354
+      labTiles_7: 57948068
+      labTiles_192: 1185295554
+      labTiles_137: -1557227524
+      labTiles_196: -1737259794
+      labTiles_110: 485346548
+      labTiles_79: 1420101768
+      labTiles_165: 698468841
+      labTiles_249: -872628946
+      labTiles_239: 1210327179
+      labTiles_206: -695715719
+      labTiles_46: -1852573495
+      labTiles_171: 2101914830
+      labTiles_250: 1033090586
+      labTiles_166: 1899366569
+      labTiles_32: -2123426001
+      labTiles_182: -998461685
+      labTiles_10: -1915179143
+      labTiles_72: -519944704
+      labTiles_94: -1585774181
+      labTiles_12: 606268896
+      labTiles_29: -1269793359
+      labTiles_145: 1292284281
+      labTiles_114: 1276438678
+      labTiles_184: -549594882
+      labTiles_210: -1414098828
+      labTiles_64: -1591440994
+      labTiles_84: -364827007
+      labTiles_131: -1110452872
+      labTiles_242: 604418340
+      labTiles_93: 1227149720
+      labTiles_247: -1704517967
+      labTiles_11: -1343308081
+      labTiles_158: -1429339321
+      labTiles_92: -1879191484
+      labTiles_63: 1875701557
+      labTiles_143: -1311355779
+      labTiles_121: 66802885
+      labTiles_149: 1178946252
+      labTiles_236: 1428168391
+      labTiles_75: -1302008907
+      labTiles_136: 32087018
+      labTiles_76: 626449488
+      labTiles_153: -126586867
+      labTiles_245: -641482467
+      labTiles_220: -1903165292
+      labTiles_141: 1806866372
+      labTiles_4: 1776648780
+      labTiles_189: -278047653
+      labTiles_15: -589923502
+      labTiles_105: 2126072890
+      labTiles_255: -108075006
+      labTiles_67: 1529844058
+      labTiles_223: 1267516536
+      labTiles_33: 94085113
+      labTiles_81: 1537443325
+      labTiles_224: 1984941724
+      labTiles_61: -584477218
+      labTiles_207: 698776617
+      labTiles_17: 1813399814
+      labTiles_111: -1842786080
+      labTiles_204: 2139514919
+      labTiles_146: 1221188239
+      labTiles_118: 1147470969
+      labTiles_152: 1026638823
+      labTiles_101: -1306350462
+      labTiles_241: 838296646
+      labTiles_35: -1448198974
+      labTiles_47: -1558124649
+      labTiles_100: 1154156071
+      labTiles_71: 1788174269
+      labTiles_31: 1888996639
+      labTiles_108: 1977664752
+      labTiles_37: -1823281156
+      labTiles_211: 1578242482
+      labTiles_126: -1624437996
+      labTiles_51: 377752035
+      labTiles_122: -1219363277
+      labTiles_144: -327312407
+      labTiles_246: 840833779
+      labTiles_142: 256899449
+      labTiles_109: -246874500
+      labTiles_21: -1856685726
+      labTiles_222: 1049408945
+      labTiles_160: -1736647268
+      labTiles_1: -517247655
+      labTiles_237: -544339572
+      labTiles_198: 623361236
+      labTiles_62: 444085859
+      labTiles_139: -457862180
+      labTiles_254: 542763570
+      labTiles_49: 53855463
+      labTiles_185: -14876620
+      labTiles_188: -1755375474
+      labTiles_83: 122488191
+      labTiles_216: 1335232594
+      labTiles_227: -827028375
+      labTiles_97: 164268638
+      labTiles_19: -1678308750
+      labTiles_251: -702885419
+      labTiles_228: -292177998
+      labTiles_58: 1495375181
+      labTiles_208: -36472633
+      labTiles_107: 1604694540
+      labTiles_240: 446168381
+      labTiles_112: -791065436
+      labTiles_2: -1496960498
+      labTiles_181: 1953862353
+      labTiles_163: -513244415
+      labTiles_48: 498355327
+      labTiles_13: -1307878501
+      labTiles_177: 1242216084
+      labTiles_117: -1264213331
+      labTiles_159: -493767988
+      labTiles_157: -960602253
+      labTiles_193: 1035984625
+      labTiles_235: 69936016
+      labTiles_88: 1346442412
+      labTiles_202: 347455411
+      labTiles_66: -1326268737
+      labTiles_90: -1603143447
+      labTiles_167: 1485072927
+      labTiles_20: 1014778941
+      labTiles_186: 146106811
+      labTiles_129: -1732406873
+      labTiles_98: 2076675030
+      labTiles_156: -1065268511
+      labTiles_150: 1156868012
+      labTiles_194: 1195484239
+      labTiles_30: -1215310383
+      labTiles_252: 1692745407
+      labTiles_85: -1091356725
+      labTiles_134: -351029553
+      labTiles_5: -1276177011
+      labTiles_232: -1406916982
+      labTiles_190: 1983100542
+      labTiles_6: -184141010
+      labTiles_39: -95212978
+      labTiles_195: -2072733097
+      labTiles_52: -467006019
+      labTiles_226: 1817879302
+      labTiles_191: -2095915419
+      labTiles_36: 1563421141
+      labTiles_80: 579562221
+      labTiles_180: -773587331
+      labTiles_106: 397360740
+      labTiles_8: -2120873235
+      labTiles_217: 949625944
+      labTiles_176: 1206771116
+      labTiles_127: -435210570
+      labTiles_115: -359990590
+      labTiles_43: -900764685
+      labTiles_56: 1766584565
+      labTiles_120: -1976908953
+      labTiles_57: 465073237
+      labTiles_155: -204028330
+      labTiles_140: -2136203941
+      labTiles_244: 1739572410
+      labTiles_27: 1582928457
+      labTiles_248: 211820876
+      labTiles_130: 1057166828
+      labTiles_178: 1702079097
+      labTiles_25: 512932999
+      labTiles_132: 1628582392
+      labTiles_183: -755868027
+      labTiles_22: 1381230061
+      labTiles_199: 2129249817
+      labTiles_128: 1927830716
+      labTiles_78: -700283823
+      labTiles_169: -1171101641
+      labTiles_170: 1310799515
+      labTiles_175: 566325993
+      labTiles_69: 1198342822
+      labTiles_104: -1560897035
+      labTiles_187: -1967049053
+      labTiles_218: -243274039
+      labTiles_205: -626908715
+      labTiles_44: -1926135864
+      labTiles_125: -1995714965
+      labTiles_116: 1552514833
+      labTiles_168: -1926360972
+      labTiles_28: 394631740
+      labTiles_253: 849515084
+      labTiles_174: 1164900585
+      labTiles_162: -1806249077
+      labTiles_231: 1559286888
+      labTiles_119: 1413819773
+      labTiles_225: -2093654725
+      labTiles_221: 924336981
+      labTiles_86: 1681359240
+      labTiles_34: -2051282595
+      labTiles_200: -984606024
+      labTiles_18: -396474881
+      labTiles_229: 273660437
+      labTiles_151: -1328927275
+      labTiles_154: 1003442312
+      labTiles_133: 352061754
+      labTiles_55: -324513348
+      labTiles_209: 1880603166
+      labTiles_89: -1208628499
+      labTiles_3: -966553124
+      labTiles_91: -188963369
+      labTiles_148: 1229561405
+      labTiles_173: -1556902185
+      labTiles_16: 1295440257
+      labTiles_41: -239055695
+      labTiles_138: 987269662
+      labTiles_87: -1932613513
+      labTiles_214: 975548593
+      labTiles_164: 2504062
+      labTiles_102: 819739039
+      labTiles_14: -344397088
+      labTiles_70: 1513467883
+      labTiles_0: -62830378
+      labTiles_161: 1445965384
+      labTiles_99: 1616647727
+      labTiles_233: 1245327642
+      labTiles_40: -1017434202
+      labTiles_42: -813541591
+      labTiles_212: 117319028
+      labTiles_54: 538926059
+      labTiles_234: 354884692
+      labTiles_38: -1057266835
+      labTiles_179: -1786628270
+      labTiles_73: 1705210107
+      labTiles_219: 1264611645
+      labTiles_50: 2050240900
+      labTiles_215: -1104074081
+      labTiles_201: -1459482239
+      labTiles_238: 1158616209
+      labTiles_60: -1394204866
+      labTiles_45: 715545591
+      labTiles_230: -1631997143
+      labTiles_82: -1754001693
+      labTiles_243: -1684216438
+      labTiles_197: -215714294
+      labTiles_24: -1793493242
+      labTiles_123: 87505677
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
